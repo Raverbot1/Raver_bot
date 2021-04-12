@@ -1,15 +1,8 @@
-DME.md
-
-
-SabrinaBOT
+RaverBOT
 
 Criador
 Raver
 
-Clone Este Repositório!
-> git clone https://github.com/DevGaaab/SabrinaBOT
-Instale as dependências:
-Antes de executar o comando abaixo, certifique-se de estar no diretório do projeto que você acabou de clonar !!
 
 > cd Raverbot
 > bash install.sh
